@@ -1,1 +1,17 @@
- body
+ body{
+    background-color: rgb(43, 158, 152);
+ }
+img{
+    display: flex;
+    align-items: center;
+width: 400px;
+border-radius: 50px;
+
+}
+
+h1{
+text-align: center;
+color: aliceblue;
+
+
+}
