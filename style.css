@@ -8,15 +8,37 @@
  body{
     background-color: rgb(43, 158, 152);
  }
-}
+img{
+   width: 50%;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    margin: auto;
+border-radius: 50px;
+box-shadow: #000000fa 4px 4px ;
 
 h1{
 text-align: center;
 color: aliceblue;
 font-size: 5rem;
 font-family: "Cal Sans", sans-serif;
-
 }
-img{
-    
+
+ 
+p{
+   width: 60%;
+   font-size: 1,3rem;
+   font-weight: 800;
+   display: flex;
+   margin: auto;
+   text-align: justify;
+}
+h2{
+   width: 60%;
+   font-size: 1,3rem;
+   font-weight: 800;
+   display: flex;
+   margin: auto;
+   text-align: justify;
+
 }
